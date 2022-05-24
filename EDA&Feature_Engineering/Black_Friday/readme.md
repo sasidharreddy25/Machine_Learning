@@ -8,5 +8,7 @@
    iii)Remove unwanted columns 
 
    iv) Converting Categorical values to Numerical
+3) Visualise data features with target values and observing important points
 
+    i)
 ![alt text](https://github.com/sasidharreddy25/Machine_Learning/blob/main/EDA%26Feature_Engineering/Black_Friday/Images/img1.jpeg)
