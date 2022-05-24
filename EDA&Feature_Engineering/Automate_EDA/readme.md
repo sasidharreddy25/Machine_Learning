@@ -1,5 +1,6 @@
 1) Here we discused about online tools available for easy and fast Data Exploration
 2) Tools For Data Exploration
+
      i) pandas_profiling
      ii) dtale 
  
