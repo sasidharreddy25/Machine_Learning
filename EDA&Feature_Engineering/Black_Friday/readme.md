@@ -1,5 +1,6 @@
 1) Exploring the data
-2) Cleaning the data set 
+2) Cleaning the data set
+ 
    i) Identifying missing values
 
    ii) Removing Nan values 
