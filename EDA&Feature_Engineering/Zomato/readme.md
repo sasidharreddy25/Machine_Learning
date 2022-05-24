@@ -6,11 +6,11 @@
 6) By exploring data we found that India, UAE are only countries with online delivery option available
 7) Data Exploration
 
-         ![alt text](https://github.com/sasidharreddy25/Machine_Learning/blob/main/EDA%26Feature_Engineering/Zomato/Images/img1.jpeg)
+      ![alt text](https://github.com/sasidharreddy25/Machine_Learning/blob/main/EDA%26Feature_Engineering/Zomato/Images/img1.jpeg)
    
-         ----->Indi has 94.395 orders of total orders
+      ----->Indi has 94.395 orders of total orders
    
-   ![alt text](https://github.com/sasidharreddy25/Machine_Learning/blob/main/EDA%26Feature_Engineering/Black_Friday/Images/img2.jpeg)
+      ![alt text](https://github.com/sasidharreddy25/Machine_Learning/blob/main/EDA%26Feature_Engineering/Black_Friday/Images/img2.jpeg)
    
-   ------> Many users gave zero rating 
+      ------> Many users gave zero rating 
    
