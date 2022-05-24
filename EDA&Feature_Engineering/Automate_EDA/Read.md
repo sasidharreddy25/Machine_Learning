@@ -2,6 +2,7 @@
 2) Tools For Data Exploration
      i) pandas_profiling
      ii) dtale 
+ 
 3) profing_report was stored in output.html
 4) Sample Graphs
 
