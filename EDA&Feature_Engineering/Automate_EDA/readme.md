@@ -11,3 +11,4 @@
   ![alt text](https://github.com/sasidharreddy25/Machine_Learning/blob/main/EDA%26Feature_Engineering/Automate_EDA/Images/img1.png)
   
   ![alt text](https://github.com/sasidharreddy25/Machine_Learning/blob/main/EDA%26Feature_Engineering/Automate_EDA/Images/img2.png)
+  
