@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>My Todo App</title>
+    </head>
+
+    <body>
+        <table>
+            <tr>
+                <th>Task</th>
+                <th>Date Created</th>
+                <th>Action</th>
+
+            </tr>
+            {% for task in tasks %}
+                <tr>
+                    <td>{{ task.name }}</td>
+                    <td>{{ task.date }}</td>
+                    <a href="/delete/{{task.id}}">Delete</a>
+                </tr>
+            {% endfor %}
+        </table>
+        <form action="/create" method="GET">
+            <input type="submit" value="Add new task">
+        </form>
+    </body>
+</html>
